@@ -5,4 +5,4 @@
 
 ### 결과 영상
 
-[![Project D](https://imgur.com/PqMqQ0a)](https://www.youtube.com/watch?v=_oikjsTD7KA "프로젝트D Youtube 비디오 링크")
+[![Project D](https://i.imgur.com/PqMqQ0a.png)](https://www.youtube.com/watch?v=_oikjsTD7KA "프로젝트D Youtube 비디오 링크")
